@@ -1,5 +1,6 @@
 # Mikrotik Reverse Proxy
-Work http only
+Work on http only, limited by mikrotik web proxy
+
 <ul>
   <li>Making Static DNS<br>
 <pre>
